@@ -373,7 +373,7 @@ https://github.com/<ВАШ-USERNAME>/hello-go/releases
 - `hello-go-darwin-arm64`
 - `hello-go-windows-amd64.exe`
 
-![alt text](<Снимок экрана 2026-09-25 114950.png>)
+![alt text](изображение.png)
 
 ### 8. Скачивание и запуск бинарника
 
@@ -405,7 +405,7 @@ Hello, GitHub!
 Sum 1..10 = 55
 ```
 
-![alt text](<Снимок экрана 2026-09-25 115901.png>)
+
 
 Обратите внимание на **первую строку**: `hello-go version v1.0.0`. Это версия, которая была **внедрена во время компиляции** через `-ldflags "-X main.version=..."`.
 
