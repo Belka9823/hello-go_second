@@ -474,3 +474,4 @@ GitHub создаст **новый Release** `v1.1.0`, старый `v1.0.0` о�
 - **Releases** — для распространения среди пользователей
 
 > Если вы обнаружили ошибку в этом тексте — сообщите пожалуйста автору!
+ <img width="360" height="158" alt="изображение" src="https://github.com/user-attachments/assets/cea490e4-2e19-4eb7-8aa8-e662bdb7ebfe" />
